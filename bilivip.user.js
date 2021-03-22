@@ -4,8 +4,8 @@
 // @supportURL   https://github.com/nitu2003/bilivip/issues
 // @version      0.1
 // @description  变成年度小会员！
-// @updateURL    https://cdn.jsdelivr.net/gh/nitu2003/bilivip@latest/bilivip.js
-// @downloadURL  https://cdn.jsdelivr.net/gh/nitu2003/bilivip@latest/bilivip.js
+// @updateURL    https://cdn.jsdelivr.net/gh/nitu2003/bilivip@latest/bilivip.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/nitu2003/bilivip@latest/bilivip.user.js
 // @author       Taskeren
 // @match        *://space.bilibili.com/*
 // @grant        none
